@@ -1,4 +1,4 @@
-package example.allow
+package user.allow
 
 default allow = false
 
